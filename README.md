@@ -1,4 +1,4 @@
-# 🚀 Nombre del Proyecto
+# 🚀 Capacitación de empresas
 
 ![Portada o Logo del Proyecto](screenshot-cover.jpg)
 
